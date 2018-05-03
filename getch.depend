@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1519605266 source:c:\users\matheus rodrigues\desktop\estudos\2 semestre de estudos\c++\exscript\projetos\projects\002 professor\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<conio.h>
+	<math.h>
+	<cstdlib>
+	<stdlib.h>
+
+1519605266 source:c:\users\theus\desktop\estudos\2 semestre de estudos\c++\exscript\projetos\projects\002 professor\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<conio.h>
+	<math.h>
+	<cstdlib>
+	<stdlib.h>
+
